@@ -1,0 +1,7 @@
+# Direct dependencies. Unpinned versions were not recorded in the source files.
+torch==2.13.0
+gurobipy==9.5.2
+numpy
+pandas
+scikit-learn
+matplotlib
